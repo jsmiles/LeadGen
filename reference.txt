@@ -1,0 +1,4 @@
+Company,Domain,Pattern
+ACME Corporation,@acme.com,p1
+Globex Corp,@globex.com,p2
+Umbrella Industries,@ui.com,p3
